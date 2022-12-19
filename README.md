@@ -9,7 +9,7 @@
 ----
 
 <img src="https://github-readme-stats.vercel.app/api?username=habedi&show_icons=true" alt=habedi />
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=habedi" alt="habedi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habedi" alt="habedi" /> </p>
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/habedi/competition" /> -->
 
 

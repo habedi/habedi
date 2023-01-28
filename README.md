@@ -5,3 +5,5 @@
 <a href="https://stackoverflow.com/users/4414921/hassan-abedi" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" alt="smota"/></a>
 <a href="https://medium.com/@habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@habedi" alt="smota"/></a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habedi&theme=monokai)
+

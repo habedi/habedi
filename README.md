@@ -6,6 +6,9 @@
 <a href="https://medium.com/@habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@habedi" alt="smota"/></a>
 
 ![My profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habedi&theme=monokai)
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
+</a> -->
 
 
 [![My skills](https://skillicons.dev/icons?i=python,java,c,bash,linux,docker,nginx,emacs,flask,fastapi,git,github,maven,stackoverflow,tensorflow,mysql,mongodb,sqlite,redis,idea,aws,raspberrypi,latex,md&perline=12)](https://skillicons.dev)

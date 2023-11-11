@@ -5,10 +5,12 @@
 <a href="https://stackoverflow.com/users/4414921/hassan-abedi" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" alt="smota"/></a>
 <a href="https://medium.com/@habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@habedi" alt="smota"/></a>
 
+<a href="https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" target="blank"><img align="center" src="https://img.shields.io/badge/-google scholar-800080?style=for-the-badge&labelColor=800080&logo=Google Scholar&link=https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" alt="smota"/></a>
+
 ![My profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habedi&theme=monokai)
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
 </a> -->
 
 
-[![My skills](https://skillicons.dev/icons?i=python,java,c,bash,linux,docker,nginx,emacs,flask,fastapi,git,github,maven,stackoverflow,tensorflow,mysql,mongodb,sqlite,redis,idea,aws,raspberrypi,latex,md&perline=12)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=python,java,c,cpp,bash,linux,docker,nginx,emacs,flask,fastapi,git,github,maven,stackoverflow,tensorflow,mysql,mongodb,sqlite,redis,idea,aws,azure,raspberrypi,latex,md&perline=13)](https://skillicons.dev)

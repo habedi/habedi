@@ -9,10 +9,10 @@
 </a>
 
 <a href="https://www.linkedin.com/in/hassan-abedi/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-abedi/" alt="hassan-abedi"/></a>
-<a href="https://twitter.com/Hassan_Abedi" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Hassan_Abedi" alt="mota_santiago"/></a>
+<a href="https://twitter.com/Hassan_Abedi" target="blank"><img align="center" src="https://img.shields.io/badge/-X/Twitter-A7C0FF?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/Hassan_Abedi" alt="mota_santiago"/></a>
 <a href="https://medium.com/@habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@habedi" alt="smota"/></a>
 <a href="https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" target="blank"><img align="center" src="https://img.shields.io/badge/-google scholar-800080?style=for-the-badge&labelColor=800080&logo=Google Scholar&link=https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" alt="smota"/></a>
-
+<a href="https://xethub.com/habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-XetHub Repos-CF9FFF?style=for-the-badge&logo=X&logoColor=white&link=https://xethub.com/habedi" alt="santiagomota"/></a>
 
 
 

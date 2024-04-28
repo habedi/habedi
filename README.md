@@ -24,5 +24,5 @@
 </a> -->
 
 
-[![My skills](https://skillicons.dev/icons?i=python,java,c,cpp,bash,linux,docker,nginx,flask,fastapi,git,github,bitbucket,debian,ubuntu,bsd,jenkins,terraform,kubernetes,emacs,idea,pycharm,clion,regex,maven,stackoverflow,tensorflow,pytorch,mysql,postgresql,mongodb,sqlite,redis,aws,azure,raspberrypi,latex,md&perline=13)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=python,java,c,cpp,bash,linux,processing,powershell,docker,nginx,flask,fastapi,selenium,postman,git,github,githubactions,bitbucket,gitlab,debian,ubuntu,bsd,plan9,jenkins,terraform,kubernetes,emacs,idea,pycharm,clion,regex,maven,stackoverflow,sklearn,tensorflow,pytorch,mysql,postgresql,mongodb,sqlite,redis,aws,azure,raspberrypi,latex,md&perline=13)](https://skillicons.dev)
 

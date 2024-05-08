@@ -14,15 +14,11 @@
 <a href="https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" target="blank"><img align="center" src="https://img.shields.io/badge/-google scholar-800080?style=for-the-badge&labelColor=800080&logo=Google Scholar&link=https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" alt="smota"/></a>
 <a href="https://xethub.com/habedi" target="blank"><img align="center" src="https://img.shields.io/badge/-XetHub Repos-CF9FFF?style=for-the-badge&logo=X&logoColor=white&link=https://xethub.com/habedi" alt="santiagomota"/></a>
 
-
-
-
-
 ![My profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habedi&theme=monokai)
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
 </a> -->
 
-
 [![My skills](https://skillicons.dev/icons?i=python,java,c,cpp,bash,linux,processing,powershell,docker,nginx,flask,fastapi,selenium,postman,git,github,githubactions,bitbucket,gitlab,debian,ubuntu,bsd,plan9,jenkins,terraform,kubernetes,emacs,idea,pycharm,clion,regex,maven,stackoverflow,sklearn,tensorflow,pytorch,mysql,postgresql,mongodb,sqlite,redis,aws,azure,raspberrypi,latex,md&perline=13)](https://skillicons.dev)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&layout=compact&exclude_repo=habedi.github.io&langs_count=15&hide=jupyter%20notebook)](https://github.com/habedi/habedi) -->

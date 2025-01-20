@@ -12,10 +12,8 @@
 <a href="https://stackoverflow.com/users/4414921/hassan-abedi" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" alt="smota"/></a>
 <a href="https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" target="blank"><img align="center" src="https://img.shields.io/badge/-google scholar-800080?style=for-the-badge&labelColor=800080&logo=Google Scholar&link=https://scholar.google.com/citations?user=s962EzkAAAAJ&hl" alt="smota"/></a>
 
-<a href="https://codeberg.org/habedi" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Codeberg Repos-0052CC?style=for-the-badge&logo=Codeberg&logoColor=white&link=https://codeberg.org/habedi" alt="Codeberg Repositories"/>
+<a href="https://codeberg.org/habedi" target="_blank"><img align="center" src="https://img.shields.io/badge/-Codeberg Repos-0052CC?style=for-the-badge&logo=Codeberg&logoColor=white&link=https://codeberg.org/habedi" alt="Codeberg Repositories"/>
 </a>
-
 
 ![My profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habedi&theme=monokai)
 <!-- <a href="https://github.com/anuraghazra/convoychat">

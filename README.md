@@ -20,6 +20,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
 </a> -->
 
-[![My skills](https://skillicons.dev/icons?i=python,java,c,go,bash,linux,processing,powershell,docker,nginx,flask,fastapi,selenium,git,github,githubactions,bitbucket,gitlab,debian,ubuntu,bsd,plan9,jenkins,terraform,kubernetes,emacs,idea,pycharm,clion,regex,maven,stackoverflow,sklearn,pytorch,tensorflow,postgresql,mysql,mongodb,sqlite,aws,azure,raspberrypi,latex,md,unity,godot,copilot&perline=13)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=python,java,c,go,rust,bash,linux,processing,powershell,docker,nginx,flask,fastapi,selenium,git,github,githubactions,bitbucket,gitlab,debian,ubuntu,bsd,plan9,jenkins,terraform,kubernetes,emacs,idea,pycharm,clion,regex,maven,stackoverflow,sklearn,pytorch,tensorflow,postgresql,mysql,mongodb,sqlite,aws,azure,raspberrypi,latex,md,unity,godot,copilot&perline=13)](https://skillicons.dev)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habedi&layout=compact&exclude_repo=habedi.github.io&langs_count=15&hide=jupyter%20notebook)](https://github.com/habedi/habedi) -->
